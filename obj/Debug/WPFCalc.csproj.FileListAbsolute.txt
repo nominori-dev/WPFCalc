@@ -1,0 +1,15 @@
+C:\Users\eveli\source\repos\WPFCalc\bin\Debug\WPFCalc.exe.config
+C:\Users\eveli\source\repos\WPFCalc\bin\Debug\WPFCalc.exe
+C:\Users\eveli\source\repos\WPFCalc\bin\Debug\WPFCalc.pdb
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\WPFCalc.csprojAssemblyReference.cache
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\MainWindow.g.cs
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\App.g.cs
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\WPFCalc_MarkupCompile.cache
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\WPFCalc_MarkupCompile.lref
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\MainWindow.baml
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\WPFCalc.g.resources
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\WPFCalc.Properties.Resources.resources
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\WPFCalc.csproj.GenerateResource.cache
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\WPFCalc.csproj.CoreCompileInputs.cache
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\WPFCalc.exe
+C:\Users\eveli\source\repos\WPFCalc\obj\Debug\WPFCalc.pdb
